@@ -1,0 +1,217 @@
+@media  only screen and (0<width<=480px) {
+    body{
+      background: #000;
+    }
+
+    #logo{
+        height: 15vh;
+    }
+    #logo img{
+        height: 25vh;
+        width: 40vw;
+    }
+
+
+    #outline-text .outline-text-1{
+    
+        height: 4vh; 
+        font-size: 50px;
+       -webkit-text-stroke: 1px white;
+        margin-top: -3vh;
+    }
+    #outline-text .outline-text-2{
+        
+        height:5vh; 
+        font-size: 50px;
+       -webkit-text-stroke: 1px white;
+       margin-top: -2vh;
+      
+    
+    }
+    #outline-text .outline-text-3{
+        font-size: 50px;
+        margin-top: -2vh;
+       
+
+       
+    }
+
+    #canvas video.canvas-video{
+        height: 50vh;
+        width: 70vw;
+
+    }
+
+    #canvas .canvas-text img.text-image{
+        margin-top :12vh;
+
+    }
+
+    #artwork .artwork-image{
+        width: 70vw;
+        height: 50vh;
+        margin: 5vh 0;
+        border: 1px solid white;
+    }
+    
+    #artwork .poster p{
+        width: 70vw;
+        height: 20vh;
+
+       
+    }
+    #artwork .poster h1{
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+@media (min-width:480px) and (max-width:780px) {
+    body{
+      background: black;
+    }
+
+
+    #logo{
+        height: 15vh;
+    }
+    #logo img{
+        height: 30vh;
+    }
+
+    #outline-text .outline-text-1{
+    
+        height: 8vh; 
+        font-size: 100px;
+       -webkit-text-stroke: 1px white;
+        margin-top: -3vh;
+    }
+    #outline-text .outline-text-2{
+        
+        height:9.5vh; 
+        font-size: 100px;
+       -webkit-text-stroke: 1px white;
+       margin-top: -4.5vh;
+      
+    
+    }
+    #outline-text .outline-text-3{
+        font-size: 100px;
+        margin-top: -4.5vh;
+       
+    }
+
+
+    #canvas video.canvas-video{
+        height: 50vh;
+        width: 30vw;
+       
+    }
+  
+    #canvas .text-image{
+        margin-top: 10vh;
+    }
+
+    #canvas .canvas-text .text-content{
+        height: 20vh;
+        overflow-y:auto ;
+
+    }
+
+    #artwork .poster img.artwork-image{
+        width: 30vw;
+    }
+    #artwork .poster p{
+        width: 30vw;
+        height: 20vh;
+    }
+ 
+    #artwork .poster h1{
+        font-size: 40px;
+        font-weight: 900;
+    }
+
+    #artwork .spotify-embed iframe{
+        margin-top: 5vh;
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
